@@ -1,5 +1,5 @@
 # nuxtjs-docker  
 
-** setup  
-https://nuxtjs.org/guide/installation
-
+**Setup**  
+setup npx and nuxtjs https://nuxtjs.org/guide/installation  
+setup docker for nuxtjs  
