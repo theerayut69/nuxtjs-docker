@@ -2,7 +2,7 @@ version: "3"
 
 services:
   nuxt:
-    build: ./app/
+    build: ./site/
     container_name: tthan.local
     restart: always
     ports:
